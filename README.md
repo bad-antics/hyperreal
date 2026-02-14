@@ -12,6 +12,9 @@
 
 <p><em>"The real is not only what can be reproduced, but that which is always already reproduced."</em></p>
 
+  <a href="https://github.com/bad-antics/hyperreal/stargazers"><img src="https://img.shields.io/github/stars/bad-antics/hyperreal?style=for-the-badge&color=9B30FF&labelColor=0D0D0D" alt="stars"></a>
+  <a href="https://github.com/bad-antics/hyperreal/network/members"><img src="https://img.shields.io/github/forks/bad-antics/hyperreal?style=for-the-badge&color=FF0066&labelColor=0D0D0D" alt="forks"></a>
+  <a href="https://github.com/bad-antics/hyperreal/issues"><img src="https://img.shields.io/github/issues/bad-antics/hyperreal?style=for-the-badge&color=00FF41&labelColor=0D0D0D" alt="issues"></a>
 <p>
   <img src="https://img.shields.io/badge/baudrillard-suite-9B30FF?style=for-the-badge" alt="suite">
   <img src="https://img.shields.io/badge/hyperreal-forensics-00FF41?style=for-the-badge" alt="hyperreal">
@@ -182,19 +185,25 @@ Unlike conventional forensics that sees only the current state, Hyperreal uses:
 
 ---
 
-## 🔗 Part of the Baudrillard Suite
+## 🔗 BAUDRILLARD SUITE
 
-| Tool | Concept | Status |
-|------|---------|--------|
-| [simulacra](../simulacra) | Ontological process authentication | 🟢 Active |
-| [spectral](../spectral) | Liminal signal analysis | 🟢 Active |
-| **hyperreal** | Memory forensics beyond reality | 🟢 Active |
-| [fatal](../fatal) | Exploit framework | �� Building |
-| [seduction](../seduction) | Social engineering | 🟡 Building |
+Part of the **Baudrillard Security Suite** — philosophical security tools for the postmodern threat landscape:
+
+| Tool | Purpose | Language |
+|:-----|:--------|:---------|
+| [simulacra](https://github.com/bad-antics/simulacra) | Rootkit detection via process ontology | Python |
+| **hyperreal** (this repo) | Memory forensics & negative space analysis | Rust/Python |
+| [cool-memories](https://github.com/bad-antics/cool-memories) | Immutable forensic logging & evidence chains | Python |
+| [spectral](https://github.com/bad-antics/spectral) | Liminal signal analysis | Python |
+
+> *Built by [NullSec](https://github.com/bad-antics) — Security through philosophy.*
 
 ---
 
 <div align="center">
-  <img src="https://img.shields.io/badge/made%20for-memory%20archaeology-9B30FF?style=for-the-badge" alt="archaeology">
-  <p><em>"Memory is not the truth—it is more than truth."</em></p>
+
+*"Memory is not the truth—it is more than truth."*
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/nullsec)
+
 </div>
